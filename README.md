@@ -1,2 +1,2 @@
-# ALSA
+# VESA
 Some Unity scripts.
