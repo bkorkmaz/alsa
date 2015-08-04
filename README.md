@@ -1,2 +1,3 @@
 # ALSA
-## Zaxxon like game by Bilgehan "gibraltar" Korkmaz
+
+Zaxxon like game by Bilgehan "gibraltar" Korkmaz
