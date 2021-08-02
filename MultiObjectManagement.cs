@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+//Dynamic Object Pooling for Unity 4+
+using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
